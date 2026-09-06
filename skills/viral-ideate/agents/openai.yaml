@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viral Ideation"
+  short_description: "Develop audience-relevant video and ad concepts"
+  default_prompt: "Use $viral-ideate to develop distinct concepts from this brief."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viral Script"
+  short_description: "Write organic videos, paid ads, hooks, and ad bodies"
+  default_prompt: "Use $viral-script to write or revise this video while preserving its scope."

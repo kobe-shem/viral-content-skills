@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viral Learning"
+  short_description: "Learn from creative feedback and real performance"
+  default_prompt: "Use $viral-learn to review these creative versions, feedback, and results."

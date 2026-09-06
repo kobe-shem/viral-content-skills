@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viral Direction"
+  short_description: "Plan visual hooks, camera, performance, and editing cues"
+  default_prompt: "Use $viral-direct to turn this script into a concrete production plan."

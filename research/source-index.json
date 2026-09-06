@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "captured_at": "2026-09-06",
+  "scope": "Public source index for the portable research coverage report. Private media, transcripts, provider payloads, and account records are excluded.",
+  "teaching_sources": [
+    {
+      "creator": "Alex Hormozi",
+      "title": "Mozi Media Content Method Pt I",
+      "url": "https://www.acquisition.com/training/leads5",
+      "duration_seconds": 1787,
+      "speaker": "Alex Hormozi",
+      "transcript_provenance": "complete-runtime local ASR with approximate timestamps"
+    },
+    {
+      "creator": "Nathan Perdriau",
+      "title": "Meta Ads Creative Strategy in 2026: The Full System",
+      "url": "https://www.youtube.com/watch?v=vUbLw80KTpo",
+      "published_at": "2026-05-11",
+      "duration_seconds": 8427,
+      "speaker": "Nathan Perdriau",
+      "transcript_provenance": "complete YouTube auto-caption VTT",
+      "boundary": "Public masterclass; not evidence that paid curriculum was recovered."
+    },
+    {
+      "creator": "Ava Yuergens",
+      "title": "How to Create Irresistible Hooks to BLOW UP Your Content",
+      "url": "https://www.youtube.com/watch?v=sRutnMnQGo4",
+      "published_at": "2025-12-25",
+      "duration_seconds": 570,
+      "speaker": "Ava Yuergens",
+      "transcript_provenance": "complete YouTube auto-caption VTT"
+    },
+    {
+      "creator": "Ava Yuergens",
+      "title": "How To Make Viral Storytelling Content For Your Business",
+      "url": "https://www.youtube.com/watch?v=yQX9wg5kvCA",
+      "published_at": "2025-12-11",
+      "duration_seconds": 598,
+      "speaker": "Ava Yuergens",
+      "transcript_provenance": "complete YouTube auto-caption VTT"
+    },
+    {
+      "creator": "Ava Yuergens",
+      "title": "How to Write a Killer Script in 2026",
+      "url": "https://www.youtube.com/watch?v=PJWWGq_Yuoo",
+      "published_at": "2026-01-22",
+      "duration_seconds": 420,
+      "speaker": "Ava Yuergens",
+      "transcript_provenance": "complete YouTube auto-caption VTT"
+    },
+    {
+      "creator": "Adley Kinsman",
+      "title": "6-Step Formula to a Billion Views: Adley Kinsman Viral Video Secrets",
+      "url": "https://www.youtube.com/watch?v=tcxfKwZwhsA",
+      "published_at": "2025-02-06",
+      "duration_seconds": 3047,
+      "speaker": "Adley Kinsman interviewed by Michael Stelzner",
+      "transcript_provenance": "complete alternate-English VTT; plain English VTT was header-only"
+    },
+    {
+      "creator": "Daniel Iles",
+      "title": "My $36,000 1-1 training (uploaded for free)",
+      "url": "https://www.youtube.com/watch?v=hp328yUV6O8",
+      "published_at": "2026-06-06",
+      "duration_seconds": 9576,
+      "speaker": "Daniel Iles",
+      "transcript_provenance": "complete YouTube auto-caption VTT"
+    }
+  ],
+  "youtube_catalogs": [
+    {
+      "creator": "Nathan Perdriau / Blue Sense Digital",
+      "channel_url": "https://www.youtube.com/channel/UCtOnZyHshTvH1GoboRzHqjw",
+      "videos": 324,
+      "shorts": 92,
+      "videos_complete": true,
+      "shorts_complete": true
+    },
+    {
+      "creator": "Alex Hormozi",
+      "channel_url": "https://www.youtube.com/channel/UCUyDOdBWhC1MCxEjC46d-zw",
+      "videos": 520,
+      "shorts": 1000,
+      "videos_complete": true,
+      "shorts_complete": false,
+      "shorts_cap": 1000
+    },
+    {
+      "creator": "Ava / Personal Brand Launch",
+      "channel_url": "https://www.youtube.com/channel/UCOLuwWrqJbZ0OmVFnkhbCTA",
+      "videos": 13,
+      "shorts": 0,
+      "videos_complete": true,
+      "shorts_complete": true,
+      "boundary": "No Shorts tab was exposed at capture."
+    },
+    {
+      "creator": "Adley Kinsman",
+      "channel_url": "https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA",
+      "videos": 458,
+      "shorts": 1000,
+      "videos_complete": true,
+      "shorts_complete": false,
+      "shorts_cap": 1000
+    },
+    {
+      "creator": "Daniel Iles",
+      "channel_url": "https://www.youtube.com/channel/UCTt7n8GFS6x_Tc_nAzSiK8Q",
+      "videos": 74,
+      "shorts": 149,
+      "videos_complete": true,
+      "shorts_complete": true
+    }
+  ],
+  "secondary_scene_analysis": [
+    {
+      "creator": "Nathan Perdriau",
+      "url": "https://www.youtube.com/watch?v=KG61is5_egU",
+      "scene_count": 19,
+      "status": "completed_provider_interpretation"
+    },
+    {
+      "creator": "Alex Hormozi",
+      "url": "https://www.youtube.com/shorts/c6EGmxjMpPw",
+      "scene_count": 17,
+      "status": "completed_provider_interpretation"
+    },
+    {
+      "creator": "Ava / Personal Brand Launch",
+      "url": "https://www.youtube.com/watch?v=ChifKqh25Nk",
+      "scene_count": 55,
+      "status": "completed_provider_interpretation"
+    },
+    {
+      "creator": "Adley Kinsman",
+      "url": "https://www.youtube.com/watch?v=5fJTy6VMHLI",
+      "scene_count": 19,
+      "status": "completed_provider_interpretation"
+    },
+    {
+      "creator": "Daniel Iles",
+      "url": "https://www.youtube.com/shorts/SddOgMRZosc",
+      "scene_count": 6,
+      "status": "completed_provider_interpretation"
+    }
+  ],
+  "calibration_boundary": "Secondary scene outputs are not calibrated against exhaustive human scene annotation, full playback, uninterrupted audio listening, or known audiovisual ground truth."
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viral Content"
+  short_description: "Research, script, and direct organic videos and ads"
+  default_prompt: "Use $viral-content to develop this video or ad from the brief."

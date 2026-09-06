@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viral Research"
+  short_description: "Study creators, ads, hooks, stories, and visual execution"
+  default_prompt: "Use $viral-research to compare the relevant strong and weak creative examples."

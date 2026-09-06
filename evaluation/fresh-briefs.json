@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "status": "fictional_evaluation_material_not_actual_brands_or_campaigns",
+  "cases": [
+    {
+      "case_id": "format-01-paid-ugc",
+      "input": "Use the viral doctrine to write a full approximately 25-second paid direct-to-camera UGC-style ad and opening direction. Fictional product PocketRest: a small phone stand that folds flat and holds a phone in portrait or landscape. Audience: people trying to follow a recipe while cooking. Supplied demonstration assets: stand, phone with a demo recipe, bowl and clean counter. CTA: See how it folds. No actual customer testimonial, stability tests, price, shipping, speed or outcome claims supplied. Give exact speech, screen text and physical opening. The presenter can demonstrate the product without claiming personal history."
+    },
+    {
+      "case_id": "format-02-paid-claymation",
+      "input": "Create a full approximately 30-second paid claymation ad for fictional inventory software ShelfCheck. Facts: staff can record a count by item; each item has a reorder threshold; the app flags counts below that threshold; a person still chooses and places the order. Audience: small shop owners who discover an empty shelf too late. CTA: Watch the count-to-alert demo. Show the idea as clearly illustrative animation, not an actual app result. Give exact VO and filmable scene/action/camera/text/sound notes. Preserve which actions the person versus app performs. No automatic purchasing, integration, sales lift or savings are established."
+    },
+    {
+      "case_id": "format-03-paid-skit",
+      "input": "Write a full approximately 30-second two-person skit ad for fictional shared-room booking tool RoomClock. It shows room availability and blocks an already booked slot; no calendar integrations or guarantee are supplied. Two coworkers have both planned to use the meeting room. Only one room, two actors, a laptop and ordinary paper signs are available. Make it an actual scene with different wants and reactions, not alternating sales bullet points. End with a natural product resolution and CTA to see the shared calendar. Give dialogue, role positions, props, text and key edits."
+    },
+    {
+      "case_id": "format-04-paid-jumbotron",
+      "input": "Write a 15-second paid jumbotron-style concept for fictional PocketRest, the folding phone stand that supports portrait or landscape. This will be a clearly staged or synthetic arena-display scene, not an actual stadium placement or crowd endorsement. Make the display's visual joke relevant to the stand and readable on a vertical phone video. Provide exact on-screen text, VO if useful, starting picture, camera move, reveal and CTA. Do not spend 10 seconds on unrelated stadium spectacle or imply a real event happened."
+    },
+    {
+      "case_id": "mode-05-organic-education",
+      "input": "Write a full 35-second organic educational video teaching a junior project manager a concrete way to make a handoff usable. Teaching facts: a handoff should identify the owner, next action, due date and completion evidence. Use one clearly fictional example involving a draft landing-page review. No product or commercial CTA. Show useful value early and pay off the promise in the video. Include a complementary spoken, text and physical hook and exact spoken body."
+    },
+    {
+      "case_id": "mode-06-aware-paid",
+      "input": "Write a 15-second retargeting ad for people who already viewed fictional PocketRest's product page and want to know if it folds flat. Product facts: folds flat; portrait/landscape support. Start with the product already visible. Available: real demonstration footage of opening and closing the stand. CTA: See the folding demo. Do not force a long problem-education setup or hide the product. No price or delivery promise."
+    },
+    {
+      "case_id": "scope-07-body-only",
+      "input": "Use viral doctrine, not Ball Script. Rewrite only this paid ad body; hook and ending are locked elsewhere and must not be added. Fictional RoomClock facts: shows availability; blocks a booked slot. Draft body: When teams book meeting rooms in separate messages, two people can arrive expecting the same room. RoomClock lets everyone check the same availability and blocks a slot once booked. Develop the practical consequence and product bridge in natural speech. No invented customer result, app integration or guarantee. Return only the usable body."
+    },
+    {
+      "case_id": "memory-08-rejected-topic",
+      "input": "Suggest three new organic educational topics for a furniture repair specialist. Known expertise: can demonstrate loose-chair-joint inspection, choosing the right clamp shape, and testing stain color on scrap. Prior decision: the user rejected a family-inheritance argument topic because they do not want family conflict in the public content; anonymizing the family does not change that decision. Facts support workshop demonstrations, but no specific customer story or measured results are supplied. Develop distinct filmable ideas with opening picture, useful body and payoff."
+    }
+  ]
+}

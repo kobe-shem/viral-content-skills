@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "status": "planning",
+  "creative_id": "example-001",
+  "script_version": "v1",
+  "objective": "paid_conversion",
+  "format": "direct_camera_demo",
+  "aspect_ratio": "9:16",
+  "timing_basis": "estimated_until_recorded",
+  "claims": [],
+  "beats": [
+    {
+      "id": "b01",
+      "cue": "opening",
+      "estimated_seconds": 4,
+      "dialogue": "Replace with approved dialogue.",
+      "picture_start": "Describe what is already visible.",
+      "action": "Describe the physical change and end state.",
+      "camera": "Describe framing, angle and any movement.",
+      "screen_text": "Exact text or null",
+      "delivery": "Describe intention, emphasis and pause.",
+      "audio": "Describe necessary sound; leave music optional.",
+      "edit_cue": "Describe what motivates a cut or hold.",
+      "purpose": "Name the viewer question this beat advances.",
+      "evidence_ids": [],
+      "assets_needed": [],
+      "continuity": "State the prop, eye-line or UI state to preserve."
+    }
+  ],
+  "unresolved": [],
+  "editor_handoff": "Ingest actual media and measure source timings before creating a renderer timeline."
+}
