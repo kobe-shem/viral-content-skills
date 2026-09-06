@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.1 — 2026-09-06
+
+- Added the `viral` entrypoint to choose and sequence the existing research, ideation, scripting,
+  direction, and learning skills from one prompt.
+- The installer and validator now include all seven skills. `viral-content` remains available for
+  compatible existing requests.
+- Documented `/viral <prompt>` skill-name usage and the explicit `$viral` invocation without
+  representing it as a separately registered application command.
+
 ## 0.1.0 — 2026-09-06
 
 First portable research and writing release.

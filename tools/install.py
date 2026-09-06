@@ -12,7 +12,7 @@ import shutil
 import tempfile
 
 PACKAGE = "viral-content-skills"
-NAMES = ("viral-content", "viral-research", "viral-ideate", "viral-script", "viral-direct", "viral-learn")
+NAMES = ("viral", "viral-content", "viral-research", "viral-ideate", "viral-script", "viral-direct", "viral-learn")
 MARKER = ".viral-content-install.json"
 
 

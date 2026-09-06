@@ -7,7 +7,7 @@ from pathlib import Path
 import re
 import sys
 
-NAMES = ("viral-content", "viral-research", "viral-ideate", "viral-script", "viral-direct", "viral-learn")
+NAMES = ("viral", "viral-content", "viral-research", "viral-ideate", "viral-script", "viral-direct", "viral-learn")
 
 
 def validate(root):

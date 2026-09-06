@@ -1,15 +1,20 @@
 # Viral Content Skills
 
-A portable Codex skill suite for researching, ideating, scripting, and directing organic videos and paid ads. It connects creator craft with the actual audience, offer, creative format, and evidence in the current project.
+A portable Codex skill suite for researching, ideating, scripting, and directing organic videos and paid ads. The `viral` entrypoint chooses and sequences the included skills from the requested outcome, current evidence, and available production.
 
 Start with the [practical workflow](WORKFLOW.md), [eight sample briefs](examples/README.md), or [research coverage](research/coverage-2026-09-06.md). The source-attributed [creator decisions](skills/viral-content/references/creator-decisions.md), [paid cases](skills/viral-content/references/paid-cases.md), and [organic comparisons](skills/viral-content/references/organic-cases.md) show what the research changes in actual writing and direction.
 
 ## Use
 
-Start with `$viral-content`, or enter at the stage you need:
+Use `/viral <prompt>` as the concise entrypoint where the client exposes installed skills by name.
+The explicit equivalent is `Use $viral ...`. This is invocation by skill name; the package does not
+register a separate application-level slash command. Existing `$viral-content` requests remain
+supported, and you can enter at a specific stage when you already know what you need.
 
 | Skill | Result |
 |---|---|
+| `viral` | Chooses the necessary skills, sequences their handoffs, and returns one coherent result |
+| `viral-content` | Compatible end-to-end router for existing requests |
 | `viral-research` | Creator/ad evidence, strong/typical/weak comparisons, audiovisual coverage, and actionable findings |
 | `viral-ideate` | Distinct audience-relevant concepts and a recommended direction |
 | `viral-script` | Full scripts, speaking cards, hooks, or body-only rewrites |
@@ -19,6 +24,8 @@ Start with `$viral-content`, or enter at the stage you need:
 Examples:
 
 ```text
+/viral Develop a 30-second paid ad for this offer, from evidence through a filmable plan.
+Use $viral to turn this audience problem and offer into three organic concepts, then script and direct the best one.
 Use $viral-content to develop a 30-second paid ad for this offer.
 Use $viral-script to rewrite only the body below. Keep the supplied offer and CTA.
 Use $viral-ideate to explore three skit concepts for this organic topic.
@@ -33,7 +40,7 @@ For persistent taste and facts, fill [brand-context.md](templates/brand-context.
 
 ## Install
 
-Requires Python 3.9 or newer for the installer and included helpers. The writing skills themselves are Markdown instructions. Install all six siblings so their relative shared references remain available:
+Requires Python 3.9 or newer for the installer and included helpers. The writing skills themselves are Markdown instructions. Install all seven skills so their relative shared references remain available:
 
 ```bash
 python3 tools/validate.py

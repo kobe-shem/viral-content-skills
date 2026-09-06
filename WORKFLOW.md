@@ -1,13 +1,18 @@
 # Use the system on real work
 
-Install the six skills, start a new Codex task, and begin at the stage you need. The full sequence is research → ideas → script → direction → editing → learning. A small rewrite can start and finish at scripting.
+Install the seven skills and start a new Codex task. Use `/viral <prompt>` where the client exposes
+installed skills by name, or write `Use $viral ...` to invoke the named skill explicitly. This
+package supplies a skill entrypoint rather than registering a separate application-level slash
+command. The `viral` skill chooses and sequences research → ideas → script → direction → editing →
+learning according to the request. A small rewrite can still start and finish at scripting, and
+existing `$viral-content` requests remain supported.
 
 ## First useful session
 
 Put your current offer facts, audience, speaker preferences, accepted examples and actual rejection reasons in the project's private `.viral/brand-context.md`. Use the [template](templates/brand-context.md). Existing approved project sources can be linked instead of recopied. Keep each brand separate.
 
 ```text
-Use $viral-content. Load this project's brand context.
+/viral Load this project's brand context and develop the right content path.
 We need [organic authority / organic reach / paid qualified leads / paid sales].
 The audience is [specific situation]. The offer and supported facts are [facts].
 Available production is [speaker, props, location, footage].
@@ -15,6 +20,9 @@ Develop three materially different concepts, recommend one, and explain
 the opening promise, useful body, payoff and reason the format fits.
 Use existing research first. Acquire more only for a specific unresolved decision.
 ```
+
+The same request can be written explicitly as `Use $viral. Load this project's brand context and
+develop the right content path.` Use a stage skill directly when the task is deliberately narrow.
 
 When the idea needs your experience or judgment, ask it to use `grill-me` to interview you and save the answers. Give the skill your actual decisions; do not let it manufacture founder stories. If the supplied facts already support a good demonstration, it can develop that directly.
 

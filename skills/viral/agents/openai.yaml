@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viral"
+  short_description: "Route a content prompt to the right skills"
+  default_prompt: "Use $viral to choose and run the skills needed for this content request."
